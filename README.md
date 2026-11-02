@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 <img src="docs/assets/brand/apaar-verify-lockup.png" alt="APAAR-Verify AI" height="140" />
@@ -641,4 +642,7 @@ so the portal is demonstrable on a laptop.
 
 ## Team
 
-**APAAR-Verify AI**.
+**APAAR-Verify AI**
+=======
+# APAAR-Verify-AI
+>>>>>>> 19df68d6ba910367f3d3544d5e7559d1cea7c925
